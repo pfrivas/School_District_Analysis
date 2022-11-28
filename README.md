@@ -6,7 +6,7 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 ## Resources
 
-**Resources:** All data used in this analysis is found inside of the [Resources](School_District_Analysis/Resources at main · pfrivas/School_District_Analysis) folder.
+**Resources:** All data used in this analysis is found inside of the [Resources](https://github.com/pfrivas/School_District_Analysis/tree/main/Resources) folder.
 
 **Software:** Python 3.11, Anaconda, Jupyter Notebook
 

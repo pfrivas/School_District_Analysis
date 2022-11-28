@@ -10,6 +10,8 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 **Software:** Python 3.11, Anaconda, Jupyter Notebook
 
+**Language:** Pandas and Numpy
+
 **Code:** [PyCitySchools Challenge](https://github.com/pfrivas/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Results

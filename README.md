@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this project is to analyze the data for the math and reading standardized test results of an entire School District as well as analyzing the correlation to between sets of data such as funding and student grades, in order to learn new insights and visually provide clear results on each school's performance. This analysis was conducted twice due to potential academic dishonesty among a group of students at one of the high schools in the school district. The group's test scores in question were omitted from the shool district analysis.
+The purpose of this project is to analyze the data for the math and reading standardized test results of an entire School District as well as analyzing the correlation to between sets of data, such as funding and student grades, in order to learn new insights and visually provide clear results on each school's performance. This analysis was conducted twice due to potential academic dishonesty among a group of students at one of the high schools in the school district. The group's test scores in question were omitted from the second school district analysis.
 
 ## Resources
 
@@ -72,15 +72,19 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 - The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.5 percentage point each (meaning scores changed by less than 0.5%). - - This is because there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores should not impact the data set by a significant amount
 
 *District Summary (Original)*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/District%20Summary%20Original.png>
 
 *Districted Summary (Updated)*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/District%20Summary%20Updated.png>
 
 **How is the school summary affected?**
 - The overall passing percentages for Thomas High School decreased a significantly
 
 *School Summary (Original)*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Summary%20Original.png>
 
 *School Summary (Updated)*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Summary%20Updated.png>
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 - Thomas High School did not lose it's placement as a top 5 school

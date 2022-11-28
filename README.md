@@ -108,7 +108,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 *Bottom 5 Schools (Updated)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Bottom%205%20Schools.png>
 
-**HOw are Math and reading scores by grade affected?**
+**How are Math and reading scores by grade affected?**
 -  The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading.
 
 *Math Scores (Original)*

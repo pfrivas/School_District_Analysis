@@ -22,6 +22,8 @@ The purpose of this project is to analyze the data for the math and reading stan
 - Wilson High School: Overall Passing Rate = 90.58%
 - Pena High School: Overall Passing Rate = 90.54%
 
+
+
 **Bottom 5 Performing Schools**
 - Rodriguez High School: Overall Passing Rate = 52.99%
 - Figueroa High School: Overall Passing Rate = 53.20%
@@ -30,6 +32,8 @@ The purpose of this project is to analyze the data for the math and reading stan
 - Johnson High School: Overall Passing Rate = 53.54%
 
 ### The average math score received by students in each grade level at each school
+
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Average%20Math%20Score%20in%20each%20grade%20level%20at%20each%20school.png>
 
 ### The average reading score received by students in each grade level at each school
 

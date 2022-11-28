@@ -1,13 +1,22 @@
 # School_District_Analysis
 
-Here is the list of deliverables for the analysis of the school district: 
+## Project Overview
 
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
+The purpose of this project is to analyze the data for the math and reading standardized test results of an entire School District as well as analyzing the correlation to between sets of data such as funding and student grades, in order to learn new insights and visually provide clear results on each school's performance. This analysis was conducted twice due to potential academic dishonesty among a group of students at one of the high schools in the school district. The group's test scores in question were omitted from the shool district analysis.
+
+## Resources
+
+Resources: All data used in this analysis is found inside of the Resources folder.
+
+Software: Python 3.11, Anaconda, Jupyter Notebook
+
+## Results
+
+### Top 5 and bottom 5 performing schools, based on the overall passing rate
+### The average math score received by students in each grade level at each school
+### The average reading score received by students in each grade level at each school
+### School performance based on the budget per student
+### School performance based on the school size 
+### School performance based on the type of school
+
+## Summary

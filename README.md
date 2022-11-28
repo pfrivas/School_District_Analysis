@@ -51,7 +51,8 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 ### School performance based on the school size 
 - The average performance based on the overall passing rate does not increase as school size increases, in fact, it decreases. 
-- This is shown through the large school in the dataset having the lowest average scores and passing percentages by over 30%. The difference in performance between small and medium sized schools is negligible (approximately 1%)
+- This is shown through the large school in the dataset having the lowest average scores and passing percentages by over 30%. 
+- The difference in performance between small and medium sized schools is negligible (approximately 1%)
 - This exemplifies that school size is a factor that plays a role in student performance, the data shows that the smaller the school size the better students perform. 
 
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Size.png>

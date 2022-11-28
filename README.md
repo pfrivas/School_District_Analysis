@@ -22,7 +22,7 @@ The purpose of this project is to analyze the data for the math and reading stan
 - Wilson High School: Overall Passing Rate = 90.58%
 - Pena High School: Overall Passing Rate = 90.54%
 
-
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Top%205%20Schools.png>
 
 **Bottom 5 Performing Schools**
 - Rodriguez High School: Overall Passing Rate = 52.99%
@@ -31,17 +31,27 @@ The purpose of this project is to analyze the data for the math and reading stan
 - Hernandez High School: Overall Passing Rate = 53.53%
 - Johnson High School: Overall Passing Rate = 53.54%
 
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Bottom%205%20Schools.png>
+
 ### The average math score received by students in each grade level at each school
 
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Average%20Math%20Score%20in%20each%20grade%20level%20at%20each%20school.png>
 
 ### The average reading score received by students in each grade level at each school
 
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Average%20Reading%20Score%20in%20each%20grade%20level%20at%20each%20school.png>
+
 ### School performance based on the budget per student
+
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20Budget%20per%20Student.png>
 
 ### School performance based on the school size 
 
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Size.png>
+
 ### School performance based on the type of school
+
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Type.png>
 
 ### How is the district summary affected?
 

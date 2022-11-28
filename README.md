@@ -67,38 +67,38 @@ The purpose of this project is to analyze the data for the math and reading stan
 ### How does replacing the ninth-grade scores affect the District Analysis:
 Updating the total student counts to exclude Thomas High School ninth grades and omitting their scores from the dataset caused
 
-**How is the district summary affected?
+**How is the district summary affected?**
 - The school district had both its averages for the math and reading scores also decrease
 
-- *District Summary Original
-- *Districted Summary Updated
-**How is the school summary affected?
+- *District Summary Original*
+- *Districted Summary Updated*
+**How is the school summary affected?**
 - The overall passing percentages for Thomas High School decreased significantly
-- *School Summary Original
-- *School Summary Updated
-**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- *School Summary Original*
+- *School Summary Updated*
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 - Thomas High School lost it's placement as a top five school in the school district 
-- *Top 5 Schools original
-- *Top 5 Schools Updated
-- *Bottom 5 Schools Original
-- *Bottom 5 Schools Updated
- - **Math and reading scores by grade?
+- *Top 5 Schools original*
+- *Top 5 Schools Updated*
+- *Bottom 5 Schools Original*
+- *Bottom 5 Schools Updated*
+ - **Math and reading scores by grade?**
  -  To increase back to high average scores and it's position as a top 5 school
- - *Math Scores Original
-- *Math Scores Updated
-- *Reading Scores Original
-- *Reading Scores Updated
- - **Scores by school spending?
+ - *Math Scores Original*
+- *Math Scores Updated*
+- *Reading Scores Original*
+- *Reading Scores Updated*
+ - **Scores by school spending?**
  -  is not affected
- - *Scores by Spending Original
-- *Scores by Spending Updated
- - **Scores by school size?
+ - *Scores by Spending Original*
+- *Scores by Spending Updated*
+ - **Scores by school size?**
  - is not affected
- - *Scores by Size Original
-- *Scores by Size Updated
- - **Scores by school type?
+ - *Scores by Size Original*
+- *Scores by Size Updated*
+ - **Scores by school type?**
  - is not affected
- - *Scores by School Type Original
-- *Scores by School Type Updated
+ - *Scores by School Type Original*
+- *Scores by School Type Updated*
 
 ## Summary

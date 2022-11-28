@@ -141,7 +141,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 **Scores by school type?**
 - Thomas High School is a Charter type school
 - This is why we see almost negligible changes to the scores for Charter (less than change of 0.1%)
-- There were nochanges to District type school scores as Thomas High School not part of that group
+- There were no changes to District type school scores as Thomas High School not part of that group
 - No other school scores were affected.
 
 *Scores by School Type (Original)*
@@ -151,3 +151,27 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Type.png>
 
 ## Summary
+
+### District Analysis 
+- Changes to all scores across all metrics are has a change by less than 0.5%
+- The omittion of the ninth graders from THS had no impact to school or student count.
+
+### Math and Reading Scores
+- The difference between math and reading passing rates is greater among lower performing schools, large schools, and higher spending per student which all seem to correlate.
+- Average math and reading scores stay consistent across grade level when grouped by school
+
+### School Ranking 
+- However Thomas High School scores did change by less than 1% for each metric
+- No change to ranking when data was omitted
+
+### Scores by School Spending
+- Student spending per student is higher in bottom performing schools than top performing
+- No change to when data was omitted
+
+### Scores by School Size 
+- Smaller schools tend to perform better than Larger schools
+- When scores were omitted there were changes to Medium (1000-2000) grouping for all scores by less than 0.1%
+
+### Scores by School Type 
+- Charter schools tend to perform better than District schools
+- Changes to Charter type grouping for all scores changed by less than 0.1%

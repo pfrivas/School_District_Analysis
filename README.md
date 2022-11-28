@@ -67,7 +67,7 @@ The purpose of this project is to analyze the data for the math and reading stan
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Type.png>
 
 
-### How does replacing the ninth-grade scores affect the District Analysis:
+### How did replacing the ninth-grade scores affect the District Analysis:
 Updating the total student counts to exclude Thomas High School ninth grades and omitting their scores from the dataset
 
 **How is the district summary affected?**
@@ -108,7 +108,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 *Bottom 5 Schools (Updated)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Bottom%205%20Schools.png>
 
-**Math and reading scores by grade?**
+**HOw are Math and reading scores by grade affected?**
 -  The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading.
 
 *Math Scores (Original)*
@@ -123,7 +123,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 *Reading Scores (Updated)*
 - - For the updated reading scores click here:[Updated Reading Scores](https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Average%20Reading%20Score%20in%20each%20grade%20level%20at%20each%20school.png)
 
-**Scores by school spending?**
+**How are scores by school spending affected?**
 -  There was a slight change in the scores by school spending groups scores for the $630-644 per student grouping as this is where Thomas High School is grouped
 -  The change is almost negligible because it's a change of less than 0.1%
 
@@ -133,7 +133,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 *Scores by Spending (Updated)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20Budget%20per%20Student.png>
 
-**Scores by school size?**
+**How are scores by school size affected?**
 - The scores for the Medium (1000-2000) size schools had an almost negligible change (less than 1 percentage point). 
 - They were impacted as Thomas High School included in this group as it has 1,635 students who attend (including the grade 9 students).
 
@@ -143,7 +143,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 *Scores by Size (Updated)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Size.png>
 
-**Scores by school type?**
+**How are scores by school type affected?**
 - Thomas High School is a Charter type school
 - This is why we see almost negligible changes to the scores for Charter (less than a change of 0.1%)
 - There were no changes to District type school scores as Thomas High School not part of that group

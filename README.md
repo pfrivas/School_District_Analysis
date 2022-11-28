@@ -64,21 +64,18 @@ The purpose of this project is to analyze the data for the math and reading stan
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Type.png>
 
 ### How is the district summary affected?
-
+- The school district had both its averages for the math and reading scores also decrease
 ### How is the school summary affected?
-
-### How is the district summary affected?
-
+- The overall passing percentages for Thomas High School decreased significantly
+- 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- Thomas High School lost it's placement as a top five school in the school district 
 
 ### How does replacing the ninth-grade scores affect the following:
-  **Math and reading scores by grade
-- 
-  **Scores by school spending
-- 
-  **Scores by school size
-- 
-  **Scores by school type
-- 
-
+Updating the total student counts to exclude Thomas High School ninth grades and omitting their scores from the dataset caused
+ - **Math and reading scores by grade:** To increase back to high average scores and it's position as a top 5 school
+ - **Scores by school spending:** is not affected
+ - **Scores by school size:** is not affected
+ - **Scores by school type:** is not affected
+ 
 ## Summary

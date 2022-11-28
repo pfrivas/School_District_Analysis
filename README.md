@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this project is to analyze the data for the math and reading standardized test results of an entire School District as well as analyzing the correlation to between sets of data, such as funding and student grades, in order to learn new insights and visually provide clear results on each school's performance. This analysis was conducted twice due to potential academic dishonesty among a group of students at one of the high schools in the school district. The group's test scores in question were omitted from the second school district analysis.
+The purpose of this project is to analyze the data for the math and reading standardized test results of an entire School District as well as analyzing the correlation to between sets of data, such as funding and student performance, in order to learn new insights and provide results on each school's performance. This analysis was conducted twice due to potential academic dishonesty among a group of students at one of the high schools in the school district. The group's test scores in question were omitted from the second school district analysis and the impact of the omition is discussed later on.
 
 ## Resources
 
@@ -51,7 +51,7 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 ### School performance based on the school size 
 - The average performance based on the overall passing rate does not increase as school size increases, in fact, it decreases. 
-- This is shown through the "Large" school in the dataset having the lowest average scores and passing percentages by over 30%. The difference in performance between "Small" and "Medium" Size Schools is negligible (approximately 1%)
+- This is shown through the large school in the dataset having the lowest average scores and passing percentages by over 30%. The difference in performance between small and medium sized schools is negligible (approximately 1%)
 - This exemplifies that school size is a factor that plays a role in student performance, the data shows that the smaller the school size the better students perform. 
 
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Size.png>
@@ -65,12 +65,13 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 
 ### How does replacing the ninth-grade scores affect the District Analysis:
-Updating the total student counts to exclude Thomas High School ninth grades and omitting their scores from the dataset caused
+Updating the total student counts to exclude Thomas High School ninth grades and omitting their scores from the dataset
 
 **How is the district summary affected?**
 - The school district had both its averages for the math and reading scores also decrease a near negligible amount
-- The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.5 percentage point each (meaning scores changed by less than 0.5%).
-- This is because there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores should not impact the data set by a significant amount
+- The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis
+- This is because there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170
+- The grade 9 students only make up 1.2% of the total student count, thus removing the math and reading scores should not impact the data set by a significant amount
 
 *District Summary (Original)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/District%20Summary%20Original.png>
@@ -79,7 +80,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/District%20Summary%20Updated.png>
 
 **How is the school summary affected?**
-- The overall passing percentages for Thomas High School decreased a significantly
+- The overall passing percentages for Thomas High School decreased by approximately 0.5%
 
 *School Summary (Original)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Summary%20Original.png>
@@ -120,7 +121,8 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 - - For the updated reading scores click here:[Updated Reading Scores](https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Average%20Reading%20Score%20in%20each%20grade%20level%20at%20each%20school.png)
 
 **Scores by school spending?**
--  There was a slight change in the scores by school spending groups scores for the $630-644 per student grouping as this is where Thomas High School is grouped, however the change is almost negligible because it's a change of less than 0.1%
+-  There was a slight change in the scores by school spending groups scores for the $630-644 per student grouping as this is where Thomas High School is grouped
+-  The change is almost negligible because it's a change of less than 0.1%
 
 *Scores by Spending (Original)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/Performance%20by%20Spending%20Original.png>
@@ -140,7 +142,7 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 
 **Scores by school type?**
 - Thomas High School is a Charter type school
-- This is why we see almost negligible changes to the scores for Charter (less than change of 0.1%)
+- This is why we see almost negligible changes to the scores for Charter (less than a change of 0.1%)
 - There were no changes to District type school scores as Thomas High School not part of that group
 - No other school scores were affected.
 
@@ -161,12 +163,13 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 - Average math and reading scores stay consistent across grade level when grouped by school
 
 ### School Ranking 
-- However Thomas High School scores did change by less than 1% for each metric
+- Thomas High School scores did change by less than 1% for each metric
 - No change to ranking when data was omitted
 
 ### Scores by School Spending
 - Student spending per student is higher in bottom performing schools than top performing
 - No change to when data was omitted
+- This exemplifies that there are more different and more distinguishing factors than budget per student that decides average student scores
 
 ### Scores by School Size 
 - Smaller schools tend to perform better than Larger schools

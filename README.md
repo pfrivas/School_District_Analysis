@@ -69,7 +69,8 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 
 **How is the district summary affected?**
 - The school district had both its averages for the math and reading scores also decrease a near negligible amount
-- The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.5 percentage point each (meaning scores changed by less than 0.5%). - - This is because there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores should not impact the data set by a significant amount
+- The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis, with each metric decresing by less that 0.5 percentage point each (meaning scores changed by less than 0.5%).
+- This is because there were only 461 students in grade 9 at Thomas High School, and given the total student count is 39,170, the grade 9 students only make up 1.2% of the total student count, so removing their math and reading scores should not impact the data set by a significant amount
 
 *District Summary (Original)*
 <img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/District%20Summary%20Original.png>

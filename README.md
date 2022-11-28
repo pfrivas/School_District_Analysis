@@ -10,13 +10,33 @@ The purpose of this project is to analyze the data for the math and reading stan
 
 **Software:** Python 3.11, Anaconda, Jupyter Notebook
 
+**Code:** [PyCitySchools Challenge](https://github.com/pfrivas/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+
 ## Results
 
 ### Top 5 and bottom 5 performing schools, based on the overall passing rate
+**Top 5 Performing Schools**
+- Cabrera High School: Overall Passing Rate = 91.33%
+- Thomas High School: Overall Passing Rate = 90.63%
+- Griffin High School: Overall Passing Rate = 90.60%
+- Wilson High School: Overall Passing Rate = 90.58%
+- Pena High School: Overall Passing Rate = 90.54%
+
+**Bottom 5 Performing Schools**
+- Rodriguez High School: Overall Passing Rate = 52.99%
+- Figueroa High School: Overall Passing Rate = 53.20%
+- Huang High School: Overall Passing Rate = 53.51%
+- Hernandez High School: Overall Passing Rate = 53.53%
+- Johnson High School: Overall Passing Rate = 53.54%
+
 ### The average math score received by students in each grade level at each school
+
 ### The average reading score received by students in each grade level at each school
+
 ### School performance based on the budget per student
+
 ### School performance based on the school size 
+
 ### School performance based on the type of school
 
 ### How is the district summary affected?

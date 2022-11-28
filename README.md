@@ -70,35 +70,48 @@ Updating the total student counts to exclude Thomas High School ninth grades and
 **How is the district summary affected?**
 - The school district had both its averages for the math and reading scores also decrease
 
-- *District Summary Original*
-- *Districted Summary Updated*
+*District Summary Original*
+*Districted Summary Updated*
+
 **How is the school summary affected?**
 - The overall passing percentages for Thomas High School decreased significantly
-- *School Summary Original*
-- *School Summary Updated*
+*School Summary Original*
+*School Summary Updated*
+
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 - Thomas High School lost it's placement as a top five school in the school district 
-- *Top 5 Schools original*
-- *Top 5 Schools Updated*
-- *Bottom 5 Schools Original*
-- *Bottom 5 Schools Updated*
- - **Math and reading scores by grade?**
- -  To increase back to high average scores and it's position as a top 5 school
- - *Math Scores Original*
-- *Math Scores Updated*
-- *Reading Scores Original*
-- *Reading Scores Updated*
- - **Scores by school spending?**
- -  is not affected
- - *Scores by Spending Original*
-- *Scores by Spending Updated*
- - **Scores by school size?**
- - is not affected
- - *Scores by Size Original*
-- *Scores by Size Updated*
- - **Scores by school type?**
- - is not affected
- - *Scores by School Type Original*
-- *Scores by School Type Updated*
+*Top 5 Schools original*
+*Top 5 Schools Updated*
+*Bottom 5 Schools Original*
+*Bottom 5 Schools Updated*
+
+**Math and reading scores by grade?**
+-  To increase back to high average scores and it's position as a top 5 school
+*Math Scores Original*
+- For the original math scores click here: [Original Math Scores]()
+*Math Scores Updated*
+- For the updated math scores click here: [Updated Math Scores]()
+*Reading Scores Original*
+- For the original reading scores click here: [Original Reading Scores]()
+*Reading Scores Updated*
+- - For the updated reading scores click here:[Updated Reading Scores]()
+
+**Scores by school spending?**
+-  is not affected
+*Scores by Spending Original*
+*Scores by Spending Updated*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20Budget%20per%20Student.png>
+
+**Scores by school size?**
+- is not affected
+*Scores by Size Original*
+*Scores by Size Updated*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Size.png>
+
+**Scores by school type?**
+- is not affected
+*Scores by School Type Original*
+*Scores by School Type Updated*
+<img src = https://github.com/pfrivas/School_District_Analysis/blob/main/Resources/School%20Performance%20based%20on%20School%20Type.png>
 
 ## Summary
